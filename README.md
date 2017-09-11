@@ -1,5 +1,5 @@
 # mediumEditor-codemode
-Extension for code blocks in [mediumEditor](https://github.com/yabwe/medium-editor) for javascript.  I developed this for my own website to embedd small code snippets.  It can be combined with a syntax highlighting script such as [Prism.js](http://prismjs.com/).  The code is clunky and very rough around the edges, so feel free to fork your own version or send in a pull request if you'd like to tidy it up.
+Extension for code blocks in [mediumEditor](https://github.com/yabwe/medium-editor) for javascript.  I developed this for my own website to embed small code snippets.  It can be combined with a syntax highlighting script such as [Prism.js](http://prismjs.com/).  The code is clunky and very rough around the edges, so feel free to fork your own version or send in a pull request if you'd like to tidy it up.
 
 ## Usage
 
@@ -26,5 +26,5 @@ Next, initialise mediumEditor like this.
 
 You need to add `'code': new CodeButton()` to the extensions list, and `'code'` to the list of buttons.
 
-That's it.  Now you have some (admitedly janky) support for source code blocks in your mediumEditor.
+That's it.  Now you have some (admittedly janky) support for source code blocks in your mediumEditor.
 
